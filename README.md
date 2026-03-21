@@ -1,6 +1,6 @@
 # Vishwajeet – Personal Portfolio Website 🌐
 
-A modern, interactive, and fully responsive **personal portfolio website** showcasing my skills, projects, and professional journey in **Full-Stack Web Development, Data Analytics, and AI-Driven Automation**.
+A modern, interactive, and fully responsive **personal portfolio website** showcasing my skills, projects, and professional journey in **Full-Stack Web Development**
 
 ---
 
@@ -130,7 +130,6 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 | Frontend | HTML5, CSS3, JavaScript |
 | Styling | Custom CSS, Google Fonts |
 | Scripts | JavaScript (ES6) |
-| AI & Data | Python, AI APIs |
 | Tools | GitHub, VS Code |
 
 ---
