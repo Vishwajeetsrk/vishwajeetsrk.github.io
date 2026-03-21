@@ -8,7 +8,7 @@ A modern, interactive, and fully responsive **personal portfolio website** showc
 
 <p align="center">
   <a href="./video.mp4">
-    <img src="./allgif.gif" width="900" alt="Portfolio Live Preview">
+    <img src="assets/allgif.gif" width="900" alt="Portfolio Live Preview">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 ## 🏠 Home Section
 
 <p align="center">
-  <img src="./home.png" width="850" alt="Home Section">
+  <img src="assets/home.png" width="850" alt="Home Section">
 </p>
 
 - Strong introduction and personal branding
@@ -44,7 +44,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 ## 👤 About Me
 
 <p align="center">
-  <img src="./about.png" width="850" alt="About Me Section">
+  <img src="assets/about.png" width="850" alt="About Me Section">
 </p>
 
 - Passionate web developer and data-driven professional
@@ -52,7 +52,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 - Clean visual layout with profile image
 
 <p align="center">
-  <img src="./pro2%20bg%20remove.png" width="250" alt="Profile Image">
+  <img src="assets/pro2%20bg%20remove.png" width="250" alt="Profile Image">
 </p>
 
 ---
@@ -60,7 +60,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 ## 🎓 Education & Certifications
 
 <p align="center">
-  <img src="./Education%20&%20Certifications.png" width="850" alt="Education and Certifications">
+  <img src="assets/Education%20&%20Certifications.png" width="850" alt="Education and Certifications">
 </p>
 
 - Bachelor of Computer Applications (BCA)
@@ -72,7 +72,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="./skill.png" width="850" alt="Skills Section">
+  <img src="assets/skill.png" width="850" alt="Skills Section">
 </p>
 
 ### 💡 Technical Skill Areas
@@ -85,7 +85,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 ## 💼 Work Experience
 
 <p align="center">
-  <img src="./Work%20Experience.png" width="850" alt="Work Experience">
+  <img src="assets/Work%20Experience.png" width="850" alt="Work Experience">
 </p>
 
 - Hands-on experience in data handling and automation
@@ -97,7 +97,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="./Featured%20Projects.png" width="850" alt="Featured Projects">
+  <img src="assets/Featured%20Projects.png" width="850" alt="Featured Projects">
 </p>
 
 ### 🔹 Highlights
@@ -114,7 +114,7 @@ This portfolio is designed with a **clean UI, smooth animations, and responsive 
 ## 📞 Contact
 
 <p align="center">
-  <img src="./Contact%20.png" width="850" alt="Contact Section">
+  <img src="assets/Contact%20.png" width="850" alt="Contact Section">
 </p>
 
 - Easy contact access
