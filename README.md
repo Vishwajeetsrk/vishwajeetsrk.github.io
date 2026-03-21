@@ -13,7 +13,7 @@ A modern, interactive, and fully responsive **personal portfolio website** showc
 </p>
 
 > ▶️ **GIF auto-plays** on GitHub  
-> 🎬 **Click the preview** to watch the full video (`video.mp4`)
+
 
 ---
 
